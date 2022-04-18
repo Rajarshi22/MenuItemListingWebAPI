@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNI0Hd3zXeffuHYYq8B61KURrHbTMTjPKtgiPVNVe3dbbutadn6fUT6Kbtr/neBuPWhIjUwy0357kYINS39Agg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2095669\\source\\repos\\ICT_AzurePracticeCheck\\MenuItemListingWebAPI\\MenuItemListingWebAPI\\MenuItemListingWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2095669\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
